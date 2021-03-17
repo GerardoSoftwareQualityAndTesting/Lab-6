@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testHtml" project="testHtml" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="mx.tec.lab.TestHtmlApplicationTests" time="8.419" displayname="TestHtmlApplicationTests" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.TestHtmlApplicationTests]">
+    <testcase name="givenAClient_whenEnteringAutomationPractice_thenPageTitleIsCorrect" classname="mx.tec.lab.TestHtmlApplicationTests" time="8.419" displayname="givenAClient_whenEnteringAutomationPractice_thenPageTitleIsCorrect()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.TestHtmlApplicationTests]/[method:givenAClient_whenEnteringAutomationPractice_thenPageTitleIsCorrect()]"/>
+  </testsuite>
+</testrun>

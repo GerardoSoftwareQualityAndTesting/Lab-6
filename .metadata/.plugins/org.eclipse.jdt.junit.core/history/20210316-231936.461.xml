@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun givenAClient_whenSearchingEmptyString_thenPleaseEnterDisplayed()" project="testHtml" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="mx.tec.lab.TestHtmlApplicationTests" time="13.084" displayname="TestHtmlApplicationTests" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.TestHtmlApplicationTests]">
+    <testcase name="givenAClient_whenSearchingEmptyString_thenPleaseEnterDisplayed" classname="mx.tec.lab.TestHtmlApplicationTests" time="13.084" displayname="givenAClient_whenSearchingEmptyString_thenPleaseEnterDisplayed()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.TestHtmlApplicationTests]/[method:givenAClient_whenSearchingEmptyString_thenPleaseEnterDisplayed()]"/>
+  </testsuite>
+</testrun>
